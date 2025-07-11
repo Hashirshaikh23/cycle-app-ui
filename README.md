@@ -1,4 +1,4 @@
-# cycle-app-ui
+# Cycle App UI
 A pixel-perfect recreation of Cycle.app using Next.js, Tailwind CSS, Framer Motion, and TypeScript
 
 # Cycle.app Recreation
