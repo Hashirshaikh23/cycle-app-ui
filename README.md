@@ -24,8 +24,8 @@ A pixel-perfect recreation of Cycle.app built with modern web technologies.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/cycle-app-nextjs.git
-cd cycle-app-nextjs
+git clone https://github.com/Hashirshaikh23/cycle-app-ui
+cd cycle-app-ui
 ```
 
 2. Install dependencies
